@@ -32,4 +32,7 @@ public class ArmoredCar extends Car{
 
         //return model; //will return value of model defined in ArmoredCar
     }
+
+    /*The static memebrs usually belongs to a given class and not ot the instances. */
+
 }

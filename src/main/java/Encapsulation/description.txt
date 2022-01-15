@@ -1,0 +1,23 @@
+Encapsulation refers to the ability to package related behavior in and object bundle and control or restrict their access in both function and data from other objects.
+
+It essentially is all about pacaging related stuff together and keeping them away from external elements. You will note that keywords encapsulation along with dta hiding are used interchangeably all over.
+
+Youshould not misunderstand that encapsulation is only about data hiding. When you say encapsulation, you should emphasize on grouping, packaging or even bundling related data
+as well as behavior together.
+
+
+When you assign a class in object oriented programming, it is said that the first principle you should consider is encapsulation. Group the associate data and its behavior in a bucket.
+The main benefit of encapsulation is maintainability.
+
+Belive it all or not, that's pretty much it when it comes to encapsulation! You can leave it it a simple as that with nothing more or less.
+
+Java Encapsulation
+
+Any java class that is well defined in its context domain is a good example for Java encapsulation. Thus, the seence here is basically for bundling methods and data together only after this data
+hiding is highlighted. The term data hiding in this case relates to the accesspecifired in java. It is easier to hid an attribute or method from the outer word by using the access specifire 'private'.
+
+Therefore, hiding is quite plain and simple. But how about bundling method and data? this in particular is important. You have to understand well the business domain and design the class and group
+attributes, as well as its methods together based on that. This process is vital in encapsulation.
+
+Take the java encapsulation outline example below. When you talk about an animal, you should have all its attributes listed as well as its behavior such as how it will run,
+mate, hunt and so forth. When you bumdle all these behavior and data in one dclass, you are essentially following the principles of encapsulation.
