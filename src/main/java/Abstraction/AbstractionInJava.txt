@@ -1,0 +1,54 @@
+Abstraction is the situation where you hide the implementation details and only show the functionality; in Java,
+abstraction is achieved by use of interface and abstract class. Interface will give you 100% abstraction and the abstract will offer you 0 - 100% abstraction.
+
+When you are in the streets and spot a nice vehicle on the road, you only get to see the entire pictur; the car is only a single unit. You don't see the core of it: the complex mechinical
+engineering behind it.
+
+Now imagine yourself going to showroom to purchase a car. What are you seeing now?
+You are seeing a powerful engine, four wheels, and the steering wheel and so on. You can now see the car for what it really is -
+
+at its high components. But even so, we have so much inside it that gives the car its completeness. Now imangine you are the mechanic who's going to service the vehicle,
+you'll get to see it one more level deeper with another level of information.
+
+When you design software, you need to take the context. In the example above, you ask the question as to whether you are designing the software for casual onlookers,
+puchasers or mechanics. In this regard, the abstraction levels is applied accordingly on the design.
+
+
+## Abstraction in Object Oriented Programming
+Generally speaking, the software lanugage itself is a good example for the concept of abstraction. When you write a statement in the following way:
+a=b+c
+
+You are adding two values that are stroed in a 2 different locations then moving ahead to store the product in a brand new location. You just describe it in a form that easily understandable by human beings.
+What goes on beneath? We have instruction sets, registers, program counters, storage units and so forth involved. We have POP, PUSH taking place.
+High level language that we use tends to abstract these complex details.
+
+When we talk of abstraction in Java, we mean abstraction in OOP and the way it's done in java. Abstraction begins the moment a class begins getting conceived. I cannot really say that restricting the
+properties of a given object using Java access modifiers can be termed as abstracion, as there is a lot more to it. You will find abstraction being used often in object oriendted programmingand in software.
+
+
+## Abstraction and encapsulatoin
+
+When a class becomes conceptualized, what are the properties you can have in it based on context?
+If you want to design a class called animal and the context is zoo, you need to have an attribute as animalType to define wild or domestic.
+This attribute may not make much sense when you are designing the class in another context.
+
+In the same way, ask yourself what behavior you are going to have in the class. Abstraction is applied here as well. What is important to have is different from what will be an overdoes.
+
+Cut off some of the information off from the class, and this process is using or applying abstraction.
+
+When asked for the difference between encapsulation and abstraction, you can say that encapsulation applies abstraction just as a concept. Therefore, it is just encapsulation. But abstracion is a concept
+that is even applied as part of polyrphism and inherittance.
+
+You need to look at abstraction at a highter level among the other concepts of object oriendted programmingincluding polymorphism, inheritance and encapsulation.
+
+
+
+IN a nutshell,
+
+- When you conceptualize classes
+- When you write interfaces
+- When you write abstract class methods
+- When you write extends
+- When you apply modifiers such as 'private', ...
+
+You use abstraction as a concept in the areas identified above.
